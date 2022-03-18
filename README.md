@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **C**
 
-- 💬 Me pergunte sobre **SQL, Python, Java e PHP**
+- 💬 Me pergunte sobre **SQL e Java **
 
 - 📫 Você me acha através do e-mail **dayane.nubia67@gmail.com**
 
