@@ -1,29 +1,25 @@
-<h1 align="center">Olá 👋, Eu sou a Dayane Núbia</h1>
-<h3 align="center">Apaixonada pela programação e suas tecnolgias!</h3>
+<h1 align="center">Olá 👋, eu sou a Dayane Núbia!</h1>
 
-- 🌱 Atualmente estou aprendendo **C**
+<h3 align="center">Tecnologia, programação e inovação 🚀</h3>
 
-- 💬 Me pergunte sobre **SQL e Java **
+<p align="center"> Sou formada na área de tecnologia e tenho interesse em programação, IoT, robótica e desenvolvimento de soluções tecnológicas. <br> Minha experiência inclui projetos acadêmicos com Java, SQL, C/C++ e Arduino, além de projetos envolvendo sensores, atuadores e Internet das Coisas. </p>
 
-- 📫 Você me acha através do e-mail **dayane.nubia67@gmail.com**
-
-- 📄 Aqui estão minhas habilidades
+🛠️ Tecnologias e conhecimentos
 
 <div align="center">
-  <a href="https://github.com/dayanenubia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayanenubia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanenubia&layout=compact&langs_count=7&theme=dracula"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+
 </div>
 
-##
-<div> 
-  <a href="https://instagram.com/dayane.nubia67" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dayane.nubia67@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emily-moreira-ferreira-563269230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/dayanenubia/dayanenubia/blob/output/github-contribution-grid-snake.svg)
-  
- 
-</div> 
+📊 Estatísticas
 
-## 
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayanenubia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanenubia&layout=compact&langs_count=7&theme=dracula"/> </div>
+
+📫 Onde me encontrar
+
+<div align="center"> <a href="mailto:dayane.nubia67@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
+
+<a href="https://www.linkedin.com/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </div>
+
+<p align="center"> 💡 Sempre aprendendo, experimentando e construindo. </p>
