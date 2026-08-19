@@ -51,7 +51,6 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=dayanenubia&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/dayanenubia/dayanenubia/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/dayanenubia/dayanenubia/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
